@@ -57,7 +57,7 @@
     },
     "BOT_IMAGE": {
       "description": "Image URL for your bot menu",
-      "value": "https://files.catbox.moe/h2ydge.jpg",
+TMD6EBE9      "value": "https://files.catbox.moe/h2ydge.jpg",
       "required": false
     },
     "PUBLIC_MODE": {
